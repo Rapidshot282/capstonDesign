@@ -1,6 +1,6 @@
 ## 계명대학교 컴퓨터공학과 캡스톤디자인
 
-
+- Detail : https://github.com/Capston-Designs
 
 ### 🖐️ Reason for making
 
@@ -25,3 +25,5 @@
 
 - 점자 해석 알고리즘 : https://jinh.kr/braille/ <br>
 - 사진 -> 점자로 변환해주는 AI 모델 : https://angelina-reader.ru/
+
+
